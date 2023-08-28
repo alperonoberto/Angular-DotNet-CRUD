@@ -9,3 +9,5 @@ To launch the project, once cloned in your local machine, follow these steps:
 ng serve -o
 ```
 The above command will launch the UI in the 4200 local default port.
+
+
