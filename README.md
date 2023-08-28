@@ -10,4 +10,7 @@ ng serve -o
 ```
 The above command will launch the UI in the 4200 local default port.
 
+![Screenshot #1](screenshot1.png?raw=true "Admin panel")
+![Screenshot #2](screenshot2.png?raw=true "Add user panel")
+
 
